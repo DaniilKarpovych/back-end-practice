@@ -1,0 +1,14 @@
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+.yarn-error.log*
+
+/node_modules
+.vscode
+.env
+.idea
+
+
+
